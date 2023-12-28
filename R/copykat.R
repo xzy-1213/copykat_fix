@@ -77,7 +77,7 @@ start_time <- Sys.time()
 #   if(length(toRev)>0){
 #     anno.mat <- anno.mat[-toRev, ]
 #   }
-#   }
+  }
 # #  print(paste(nrow(anno.mat)," genes after rm cell cycle genes", sep=""))
 #   ### secondary filtering
 #   ToRemov2 <- NULL
